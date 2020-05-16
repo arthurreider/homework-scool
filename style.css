@@ -1,0 +1,35 @@
+
+.pop{
+text-align: center;
+font-size: 35px;
+font-family: 'Oswald', sans-serif;
+
+}
+.tera{
+text-align: center;
+background: #fefcea; /* Для старых браузров */
+background: linear-gradient(to top, #fefcea, #f1da36);
+padding: 10px;
+border: 1px solid #333;
+}
+.text{
+  font-family: 'Oswald', sans-serif;
+   background: #fefcea; /* Для старых браузров */
+    background: linear-gradient(to top, #fefcea, #f1da36);
+    padding: 10px;
+    border: 1px solid #333;
+}
+.img{
+  text-align: center;
+  background: #fefcea; /* Для старых браузров */
+  background: linear-gradient(to top, #fefcea, #f1da36);
+  padding: 10px;
+  border: 1px solid #333;
+}
+.text2{
+  font-family: 'Oswald', sans-serif;
+  background: #fefcea; /* Для старых браузров */
+   background: linear-gradient(to top, #fefcea, #f1da36);
+   padding: 10px;
+   border: 1px solid #333;
+}
